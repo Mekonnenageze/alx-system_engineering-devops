@@ -1,1 +1,2 @@
-lss
+#!/bin/bash
+less pwd
