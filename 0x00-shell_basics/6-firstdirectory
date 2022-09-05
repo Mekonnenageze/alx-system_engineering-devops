@@ -1,3 +1,2 @@
-create a script that creates a directory named my_first_directory in the /tmp/ directory 
-> 6-firstdirectory 
-echo create a script that creates a directory named my_first_directory in the /tmp/ directory
+#!/bin/bash
+mkdir /tmp/my_first_directory/
