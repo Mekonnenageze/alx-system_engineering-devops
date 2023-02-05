@@ -23,7 +23,7 @@ int main(void)
 {
 	int children = 0;
 	pid_t pid;
-	
+
 	while (children < 5)
 	{
 		pid = fork();
